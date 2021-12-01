@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(209, 5, 5);
+}
+
+#StartButton {
+    border-radius: 8px;
+    font-size: 22px;
+    font-family: 'Yeon Sung';
+    background-color: yellow;
+    font-weight: bold;
+}
+
+
+
+#WEBCAMBUTTON {
+    background-color: black;
+    color: lime;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+}
+
+#WEBCAMBUTTON:hover {
+    color: black;
+    background-color: lime;
+    font-size: 23px;
+}
+
+#PREDICT1BUTTON {
+    background-color: black;
+    color: lime;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+}
+
+#PREDICT1BUTTON:hover {
+    color: black;
+    background-color: lime;
+    font-size: 23px;
+}
+
+#PREDICT2BUTTON {
+    background-color: black;
+    color: lime;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+}
+
+#PREDICT2BUTTON:hover {
+    color: black;
+    background-color: lime;
+    font-size: 23px;
+}
+
+#SNAPBUTTON {
+    background-color: black;
+    color: lime;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+}
+
+#SNAPBUTTON:hover {
+    color: black;
+    background-color: lime;
+    font-size: 23px;
+}
+
+#EmojiDiv {
+    background-color: black;
+    color: white;
+    width: 250px;
+    font-weight: bold;
+    font-size: 21px;
+    height: 40px;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+#SnapshotButton {
+    font-size: 22px; 
+    font-weight: bold; 
+    color: white; 
+    font-family: 'Yeon Sung'; 
+    background-color: darkblue;
+}
+
+#SnapshotButton:hover {
+    background-color: green;
+    color: yellow;
+}
+
+#CheckButton {
+    font-size: 22px; 
+    background-color: DarkGreen; 
+    font-weight: bold; 
+    font-family: 'Yeon Sung'; 
+    color: white;
+}
+
+#CheckButton:hover {
+    background-color: darkblue;
+    color: yellow;
+}
+
+#result_gesture_name {
+    font-size: 26px;
+    color: yellow;
+    font-family: 'Yeon Sung';
+}
+
+#result_gesture_name2 {
+    font-size: 26px;
+    color: yellow;
+    font-family: 'Yeon Sung';
+}
+
+#update_gesture {
+    font-size: 26px;
+    color: yellow;
+}
+
+#update_gesture2 {
+    font-size: 26px;
+    color: yellow;
+}
